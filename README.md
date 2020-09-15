@@ -1,7 +1,9 @@
-인터넷프로그래밍 팀 프로젝트입니다.
+객체지향모델링 팀 프로젝트입니다.
 =============
-* 사용자별 포켓몬 추천 및 포켓몬 이상형 월드컵 시스템입니다
+* ROS를 사용하여 미로 탈출 및 주행시험장 주행 프로젝트입니다
 
-시연 영상 : https://www.youtube.com/watch?v=C03fUl3TP14
+발표 영상 : https://www.youtube.com/watch?v=rf-u3RgkK_k
 
-웹 호스팅 주소 : https://deu-web-project.firebaseapp.com
+미로 탈출 영상 : https://www.youtube.com/watch?v=QympBXzb0nw
+
+주행시험장 영상 : https://www.youtube.com/watch?v=EbU6ioNlO5I
